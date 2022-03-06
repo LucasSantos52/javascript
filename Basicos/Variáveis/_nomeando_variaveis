@@ -1,0 +1,22 @@
+* Nomeando variáveis
+
+    > Pode
+        - iniciar com os caracteres especiais: $  _ 
+            ex.: 
+                let $nome = ""
+                let _nome = ""
+        - iniciar com letras
+        - colocar acentos
+        - letras maiúsculas e minúsculas fazem diferença
+
+    > Não Pode 
+        - iniciar com numeros
+        - colocar espaços vazios no nome
+
+    > Ideal
+        - Criar nomes que fazem sentido
+        - Que explique oq a variável é ou faz
+        - camelCase
+        - snake_case
+        - escrever em ingles
+        
